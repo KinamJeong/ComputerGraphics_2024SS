@@ -1,1 +1,1 @@
-# MachineLearning_2024SS
+# ComputerGraphics_2024SS
